@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gjubas/mui-picker-deployment.git/static/css/main.941bddec.css",
+    "main.js": "/Gjubas/mui-picker-deployment.git/static/js/main.b6f43150.js",
+    "static/js/787.97a945da.chunk.js": "/Gjubas/mui-picker-deployment.git/static/js/787.97a945da.chunk.js",
+    "index.html": "/Gjubas/mui-picker-deployment.git/index.html",
+    "main.941bddec.css.map": "/Gjubas/mui-picker-deployment.git/static/css/main.941bddec.css.map",
+    "main.b6f43150.js.map": "/Gjubas/mui-picker-deployment.git/static/js/main.b6f43150.js.map",
+    "787.97a945da.chunk.js.map": "/Gjubas/mui-picker-deployment.git/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.941bddec.css",
+    "static/js/main.b6f43150.js"
+  ]
+}
